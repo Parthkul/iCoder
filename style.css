@@ -1,0 +1,56 @@
+.sliderimg{
+    height: 60vh;
+}
+
+
+#Cont-56{
+    min-height: calc(100vh  - 23.98vh);
+
+        } 
+#sign-13{
+    min-height: calc(100vh - 24vh);
+
+        } 
+
+        
+#Ma-7in{
+    margin: 6rem 28rem;
+}
+
+.byy45{
+    float: right;
+}
+
+footer a {
+    color: azure;
+}
+
+footer a:hover {
+    color: rgb(253, 113, 113);
+}
+
+.about-row{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+#Spn{
+    color: azure;
+}
+.SinLOga{
+    text-decoration: none;
+}
+
+
+@media screen and (max-width:991px){
+    #b-y34{
+        margin-bottom:4px ;
+    }
+}
+
+@media screen and (max-width:1200px){
+        
+    #Ma-7in{
+        margin: auto auto;
+    }
+}
